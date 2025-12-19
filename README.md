@@ -43,5 +43,43 @@ nexastore-data-analytics-suite/
 │   └── NexaStore_Reporting_Strategic.ipynb
 └── assets/
     └── Template_Livrable_analytique.xlsx
+```
+---
+## How to Navigate the Project
+
+Start with 01_analysis to understand the data
+
+Continue with 02_data_quality to review data quality issues and sprint planning
+
+Finish with 03_reporting for KPIs, insights, and recommendations
+
+Review Excel files for planning and reporting artifacts
+---
+
+## Key Learnings
+
+Structuring an analytics project from exploration to decision-making
+
+Applying data quality concepts in a practical sprint framework
+
+Translating technical analysis into business insights
+
+Producing documentation suitable for stakeholders and decision-makers
 
 ---
+## Academic Context
+
+This project was completed as part of an Applied Data Science program.
+Evaluation focused on analytical rigor, structure, documentation,
+and the ability to link data analysis with business decision-making.
+
+---
+## Author
+
+Angèle Blandine Feussi Nguemkam
+Junior Data Scientist | Applied Data Science
+Ottawa, Canada
+
+---
+**Interests**: Data Analytics, Data Quality, Big Data, AI for Decision Support
+**Contact**: via GitHub or LinkedIn
