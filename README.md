@@ -31,19 +31,15 @@ from raw exploration → quality improvement planning → reporting and recommen
 ---
 
 ## Repository Structure
-```text
-nexastore-data-analytics-suite/
-├── README.md
 ├── 01_analysis/
-│   └── NexaStore_Analysis.ipynb
+│   ├── NexaStore_Analysis.ipynb
+│   └── Template_Livrable_analytique.xlsx
 ├── 02_data_quality/
 │   ├── NexaStore_Data_Quality_Sprint.ipynb
 │   └── SPRINT_PLANNING.xlsx
 ├── 03_reporting/
 │   └── NexaStore_Reporting_Strategic.ipynb
-└── assets/
-    └── Template_Livrable_analytique.xlsx
-```
+
 ---
 ## How to Navigate the Project
 
